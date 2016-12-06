@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyDialog</string>
+
+    <string name="wechat_circle">朋友圈</string>
+    <string name="qq_zone">QQ空间</string>
+    <string name="wechat">微信好友</string>
+    <string name="qq_friend">QQ好友</string>
+    <string name="weibo">微博</string>
+</resources>
